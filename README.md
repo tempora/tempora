@@ -1,9 +1,6 @@
-<style>
-	h1 {
-		text-align: center;
-	}
-</style>
 
 <h1>tempora.</h1> 👋
 
+
+welcome to my crappy readme!
 
