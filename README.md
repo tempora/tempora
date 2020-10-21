@@ -5,4 +5,3 @@
 ![discord](https://img.shields.io/badge/-tempora%231167-313131?style=flat-square&labelColor=313131&logo=discord&logoColor=white&color=313131)
 
 
-hi i'm tempora.
