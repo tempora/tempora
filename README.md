@@ -2,5 +2,5 @@
 
 <br><br>
 Hi im tempora, aspiring software dev and an UNIX connoisseur. <br>
-I write free software with non permissive licenses. <br>
+I write free software for the every man, do what you please. <br>
 Haskell and C/C++ enthusiast, LLVM user.
