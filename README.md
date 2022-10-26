@@ -1,6 +1,3 @@
-
-<img align="right" src="https://avatars1.githubusercontent.com/u/51165533?s=200&u=9350c1d9ceca065175d05ddbe80a7aa3716e176a&v=4"></img>
-
 Hello, i'm tempora.
 
 Interests:
